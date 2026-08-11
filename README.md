@@ -1,3 +1,6 @@
+*Authored by: Mahathir Islam*
+*Date: 11/08/2026*
+
 # Olist E-Commerce Comprehensive Data Analytics and ML Pipeline
 
 ## Project Overview
