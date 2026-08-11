@@ -58,4 +58,4 @@ This section utilizes the NLP scores to uncover the true performance of sellers.
 
 
 ## Data 
-The data set is sourced from the Brazilian E-Commerce Public Dataset by Olist.
+The data set is sourced from: [the Brazilian E-Commerce Public Dataset by Olist.](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
