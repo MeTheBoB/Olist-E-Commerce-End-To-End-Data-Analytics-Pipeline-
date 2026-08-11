@@ -11,7 +11,7 @@ While traditional quantitative metrics (e.g., 1-to-5 star ratings) offer a basel
 
 ## Repository Structure
 
-* /Brazilian E-Commerce Public Dataset.ipynb: The core Python ETL and Machine Learning engine. Automates the extraction of raw Olist CSV data, performs data cleaning and duplicate removal, executes K-Means clustering for RFM segmentation, runs BERT-based sentiment analysis on customer reviews, and loads the structured data into a SQL Server database via SQLAlchemy.
+* /Data Ingestion and ML.ipynb: The core Python ETL and Machine Learning engine. Automates the extraction of raw Olist CSV data, performs data cleaning and duplicate removal, executes K-Means clustering for RFM segmentation, runs BERT-based sentiment analysis on customer reviews, and loads the structured data into a SQL Server database via SQLAlchemy.
 * /Analysis.sql: The Exploratory Data Analysis script. Contains advanced T-SQL queries used to validate data integrity, explore seasonal order trends, calculate average delivery and warehouse processing delays, and identify top-performing sellers and products.
 * /Olist_ECommerce.pbix: The final Power BI dashboard. Translates the database into an interactive tool for stakeholders to analyze buyer demographics, seller metrics, RFM clusters, and AI-driven sentiment analysis.
 
